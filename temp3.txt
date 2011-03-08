@@ -1,7 +1,5 @@
 foo
 bar
 car2
-jeep
-bmw
-merc
+jeep3
 
