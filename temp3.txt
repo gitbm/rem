@@ -2,10 +2,4 @@ foo
 bar
 car23
 less is more
-new
-abc
-def
-987
-123
-mno
-qrs
+new22
