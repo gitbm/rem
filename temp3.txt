@@ -1,5 +1,4 @@
 foo
 bar
 car23
-less is more
-new22
+less is more2
