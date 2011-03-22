@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 foo
 bar
 car23
