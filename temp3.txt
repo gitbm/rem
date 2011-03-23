@@ -1,29 +1,2 @@
 foo
 bar
-car23
-less is more3
-111
-222
-333
-444
-gr1 555
-gr2 666
-win 777
-win888
-winp 9999
-winpl 11122
-gr1 333
-ddfd dfdf
-dfdf
-gr1rap 444gr2 555
-gr2 666
-gr2 777
-gr1rap 888
-gr1raplh 99999A
-gr2 BB
-gr1raplh CC
-gr1aws DD
-gr1raplh EE
-gr1aws FF
-gr1awsm gg
-gr1 hh
